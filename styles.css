@@ -1,0 +1,32 @@
+* {
+    font-family: Roboto, Verdana, sans-serif;
+}
+
+.heading-section {
+    background-color: #1F2937;
+}
+
+.heading-text-primary {
+    color: #F9FAF8;
+}
+
+.heading-text-secondary {
+    color: #E5E7EB;
+}
+
+.navBar {
+    display: flex;
+}
+
+.navBar span {
+    border: 4px white;
+}
+
+.main-body {
+   color: #1F2937; 
+}
+
+.separate-body {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
