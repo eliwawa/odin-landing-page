@@ -50,3 +50,11 @@
     background-color: #E5E7EB;
     color: #1F2937;
 }
+
+.heading-main {
+    display: flex;
+}
+
+.heading-main div{
+    width: 50%;
+}
