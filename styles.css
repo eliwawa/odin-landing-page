@@ -14,6 +14,7 @@
 .navBar .heading-text-primary {
     padding: 2px;
     width: 20%;
+    text-align: center;
 }
 
 .heading-text-secondary {
@@ -23,11 +24,10 @@
 
 .navBar .heading-text-secondary {
     display: flex;
-    
 }
 
 .navBar .heading-text-secondary span{
-    flex: auto;
+    flex: 1;
     text-align: center;
     padding: 2px;
 }
@@ -38,6 +38,7 @@
 
 .navBar span {
     flex: auto;
+    justify-content: center;
     align-items: center;
 }
 
