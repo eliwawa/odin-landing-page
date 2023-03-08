@@ -58,3 +58,14 @@
 .heading-main div{
     width: 50%;
 }
+
+.hero-text h1{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.main-image {
+    justify-content: center;
+    align-items: center;
+}
