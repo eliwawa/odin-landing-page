@@ -60,12 +60,12 @@
 .heading-main div{
     margin-top: 8%;
     margin-bottom: 4%;
-    width: 50%;
 }
 
 .hero-text {
-    justify-items: center;
-    margin-left: 5%;
+    margin-left: 10%;
+    width: 50%;
+    align-items: flex-start;
 }
 
 .hero-text h1{
@@ -75,11 +75,14 @@
 }
 
 .hero-text div {
-    width: 60%;
+    padding-right: 15%;
+    margin-right: none;
 }
 
 .main-image {
     margin-right: 5%;
+    margin-left: none;
+    width: 60%;
     background-color: #7e8187;
 }
 
