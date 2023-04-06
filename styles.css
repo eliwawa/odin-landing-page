@@ -53,10 +53,17 @@
 
 .heading-main {
     display: flex;
+    justify-content: center;
+    height: 500px;
 }
 
 .heading-main div{
-    width: 50%;
+    margin-top: 8%;
+}
+
+.hero-text {
+    justify-items: center;
+    margin-left: 5%;
 }
 
 .hero-text h1{
@@ -65,7 +72,10 @@
     color: #F9FAF8;
 }
 
+.hero-text div {
+    width: 60%;
+}
+
 .main-image {
-    justify-content: center;
-    align-items: center;
+    margin-right: 5%;
 }
