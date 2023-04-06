@@ -59,6 +59,8 @@
 
 .heading-main div{
     margin-top: 8%;
+    margin-bottom: 4%;
+    width: 50%;
 }
 
 .hero-text {
@@ -78,4 +80,5 @@
 
 .main-image {
     margin-right: 5%;
+    background-color: #7e8187;
 }
