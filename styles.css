@@ -200,3 +200,14 @@
     margin-top: 8px;
     margin-left: 75%;
 }
+
+.footer {
+    background-color: #1F2937;
+    height: 80px;
+    line-height: 80px;
+}
+
+.links {
+    color:#F9FAF8;
+    text-align: center;
+}
