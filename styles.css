@@ -161,3 +161,42 @@
     font-weight: bold;
     margin-left: 60%;
 }
+
+.call-to-action {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.cta-text {
+    color:#F9FAF8;
+    margin-left: 10%;
+}
+
+#cta1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#cta2 {
+    font-size: 18px;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    height: 40px;
+    width: 160px;
+    border-color: #F9FAF8;
+    font-size: 16px;
+    color:#F9FAF8;
+    border-style: solid;
+    margin-top: 8px;
+    margin-left: 75%;
+}
