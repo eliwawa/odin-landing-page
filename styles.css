@@ -102,3 +102,35 @@
     color:#F9FAF8;
     border-style: solid;
 }
+
+.info-blurb {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.img-and-cap {
+    margin: 1%;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    text-align: center;
+}
+
+.sub-img {
+    width: 220px;
+    height: 220px;
+    border: 5px solid #3882F6;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.caption {
+    font-size: 18px;
+    color: #1F2937;
+    text-align: center;
+}
