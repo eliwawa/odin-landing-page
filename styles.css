@@ -122,15 +122,19 @@
 }
 
 .sub-img {
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
     border: 5px solid #3882F6;
     border-radius: 25px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .caption {
     font-size: 18px;
+    width: 200px;
     color: #1F2937;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
