@@ -1,5 +1,7 @@
 * {
-    font-family: Roboto, Verdana, sans-serif;
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .heading-section {
@@ -49,6 +51,7 @@
 .separate-body {
     background-color: #E5E7EB;
     color: #1F2937;
+    height: 400px;
 }
 
 .heading-main {
@@ -71,6 +74,7 @@
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+    margin-bottom: 5px;
 }
 
 .hero-text div {
@@ -101,6 +105,7 @@
     font-size: 16px;
     color:#F9FAF8;
     border-style: solid;
+    margin-top: 8px;
 }
 
 .info-blurb {
@@ -112,6 +117,7 @@
 
 .img-and-cap {
     margin: 1%;
+    padding-bottom: 100px;
 }
 
 .info-header {
@@ -119,6 +125,7 @@
     font-weight: extra-bold;
     color: #1F2937;
     text-align: center;
+    padding: 5%;
 }
 
 .sub-img {
@@ -128,6 +135,7 @@
     border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 5px;
 }
 
 .caption {
@@ -137,4 +145,15 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    text-align: center;
+    font-style: italic;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 100px;
 }
